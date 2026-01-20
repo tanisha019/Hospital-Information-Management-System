@@ -1,4 +1,4 @@
-# Hospital Information Management System (HIMS) – Data Analytics Project
+# Hospital Information Management System (HIMS)
 
 ## Project Overview
 This project is an end-to-end data analytics case study built on a Hospital Information Management System (HIMS) database.  
